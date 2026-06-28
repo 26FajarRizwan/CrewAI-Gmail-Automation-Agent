@@ -1,6 +1,0 @@
-name=input("Enter your name:    ")
-print("Welcome",name, "to the Python programming world!"    )
-age=int(input("Enter your age:    "))
-print("You are", age, "years old.") 
-marks= float(input("Enter your marks:    "))
-print("You scored", marks, "cgpa in the exam.")
