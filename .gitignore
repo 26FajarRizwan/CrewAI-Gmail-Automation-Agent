@@ -1,0 +1,4 @@
+.env
+__pycache__/
+.venv/
+latest_email_response_log.md
